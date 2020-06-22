@@ -4,4 +4,4 @@
 
 Currently will show:
 1. CNN (VGG) layer activations
-2 LSTM layer activations
+2. LSTM layer activations
